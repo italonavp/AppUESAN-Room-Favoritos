@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24485423269",
+    "project_id": "esanapp-4fdfc",
+    "storage_bucket": "esanapp-4fdfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24485423269:android:55a14f3e4a630b9fb6854c",
+        "android_client_info": {
+          "package_name": "com.example.appuesan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBipovTS-LPzzwK5-9kAt8TpEQiidCuQ2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
